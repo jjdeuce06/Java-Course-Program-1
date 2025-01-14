@@ -2,4 +2,5 @@
 This program was the introduction to the Java course in Spring 2024. This was a basic assignment designed to get us familiar with the language
 
 #Functionality
-This program calculates the average of numbers inputted
+Purpose of this program is to take grades from user input and find the average, total sum , and number of grades entered
+Program will output the sum, number of grades, and the average
